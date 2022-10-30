@@ -1,0 +1,6 @@
+2022-10-28 08:15:28.6112 ERROR Fridge with id: 00000000-0000-0000-0000-000000000000 doesn't exist.
+2022-10-28 08:19:01.9832 ERROR Fridge with id: 79f3062e-b720-4d9c-a8ff-08dab74182c5 doesn't exist.
+2022-10-28 08:19:16.0851 ERROR Fridge with id: 50c9271e-ae37-45aa-cfa4-08dab66f331b doesn't exist.
+2022-10-28 08:19:53.9461 ERROR Fridge with id: 1c1b1824-e362-4ba7-b411-08dab7422255 doesn't exist.
+2022-10-28 08:20:33.5883 ERROR Fridge with id: cc858bf5-d563-4380-cfa6-08dab66f331b doesn't exist.
+2022-10-28 08:23:41.4213 ERROR Fridge with id: a757154a-d178-4291-cfa2-08dab66f331b doesn't exist.

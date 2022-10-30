@@ -1,0 +1,2 @@
+2022-10-20 23:00:30.7253 INFO Company with id: 1b574013-622d-442a-d447-08dab05f727f doesn't exist the database
+2022-10-20 23:16:17.1325 INFO Company with id: 00000000-0000-0000-0000-000000000000 doesn't exist the database
